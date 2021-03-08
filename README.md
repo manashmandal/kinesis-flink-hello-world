@@ -15,7 +15,7 @@ aws kinesis put-record --stream-name <yourCreatedStreamNameHere> --data '{"hello
 
 ## Disclaimer
 
-If you're using `aws v2` then have to add this to config (`~/.aws/config`).
+If you're using `aws-cli v2` then have to add this to config (`~/.aws/config`).
 
 ```
 cli_binary_format=raw-in-base64-out
