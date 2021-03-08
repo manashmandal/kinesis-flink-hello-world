@@ -3,6 +3,9 @@
 
 AWS Kinesis and Apache Flink Example
 
+## `.env`
+
+Need an environment file to run, recreate `.env` from `.env.example` and put relevant credentials and you're good to go.
 
 ## Kinesis Producer 
 
